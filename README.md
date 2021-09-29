@@ -6,5 +6,3 @@ React Native app for learning
 >> npx expo-cli install react-native-gesture-handler react-native-reanimated
 >> Vector Icons: https://expo.github.io/vector-icons/
 >> Axios
-
-> test
